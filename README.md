@@ -1,6 +1,6 @@
 # BI_Dashboards
 
-# 1. Analysing Ecommerce Sales Data and Creating an Interactive Dashboard for it using Power BI
+### 1. Analysing Ecommerce Sales Data and Creating an Interactive Dashboard for it using Power BI
 
 * Filtered by Quarters and States ie- we can check dashboards of different quarters for each state individually
 
